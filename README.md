@@ -8,20 +8,20 @@ Project Overview
 
 A familiar Comic Book Character feel
 __Ability to:__
----Track a count for a single day/period
----Save daily counts over time to view progress
----Ability to reset the count when restarting is desired
+-Track a count for a single day/period
+-Save daily counts over time to view progress
+-Ability to reset the count when restarting is desired
 
 __Stretch Goals:__
 Personalize by:
----Choose a different title, something of personal interest
----Add a background image
----Select a different font from a provided list
----Make adjustments to button colors and appearance (width, border, etc.)
----Wrap a div around the HTML, add a max width
+-Choose a different title, something of personal interest
+-Add a background image
+-Select a different font from a provided list
+-Make adjustments to button colors and appearance (width, border, etc.)
+-Wrap a div around the HTML, add a max width
 
 ## Prerequisites
-
+None
 
 ## Installation
 
@@ -32,12 +32,6 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-
-
-## Data Collection:
-
-
-## Data Analysis:
 
 
 ## Contributing
