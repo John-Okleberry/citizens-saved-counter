@@ -6,7 +6,7 @@ Project Overview
 
 ## Features
 
-A familiar Comic Book Character feel
+A familiar Comic Book Character feel</br>
 __Ability to:__
 - Track a count for a single day/period
 - Save daily counts over time to view progress
@@ -14,7 +14,7 @@ __Ability to:__
 
 __Stretch Goals:__
 
-* *Personalize by:* *
+*Personalize by:*
 - Choose a different title, something of personal interest
 - Add a background image
 - Select a different font from a provided list
