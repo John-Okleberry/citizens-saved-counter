@@ -1,3 +1,30 @@
+# Citizens Saved Counter
+
+
+
+Project Overview
+"Citizens Saved Counter" is a basic counting app created to display proficiency with basic JavaScript, HTML, and CSS. The 
+
+Features
+
+Prerequisites
+
+Installation
+
+Data Collection:
+
+Data Analysis:
+
+Contributing
+Feel free to fork this project and submit pull requests. You can also open issues for any bugs you find or enhancements you think would be useful.
+
+Authors
+John Okleberry - Github profile
+
+
+
+
+
 # Getting Started
 Install the dependencies and run the project
 ```
