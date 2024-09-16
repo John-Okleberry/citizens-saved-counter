@@ -45,7 +45,7 @@ Feel free to fork this project and submit pull requests. You can also open issue
 
 
 ## Authors
-John Okleberry - [Github profile] (https://github.com/John-Okleberry)
+John Okleberry - [Github profile](https://github.com/John-Okleberry)
 
 
 ## About Scrimba
