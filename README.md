@@ -13,7 +13,8 @@ __Ability to:__
 - Ability to reset the count when restarting is desired
 
 __Stretch Goals:__
-Personalize by:
+
+* *Personalize by:* *
 - Choose a different title, something of personal interest
 - Add a background image
 - Select a different font from a provided list
